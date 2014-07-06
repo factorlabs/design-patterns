@@ -30,8 +30,8 @@ To run project execute `java -jar build/libs/design-patterns-1.0.jar` from comma
 
 ## Why Groovy language
 
-We chose Groove, thanks to his simple and elegant syntax.
+We chose Groove, thanks to its simple and elegant syntax.
 
 Groovy's syntax is also excelent bridge between strong and dynamic typing languages.
 
-We don't use some Groovy's syntactic sugar to make kode as general as possible.
+We don't use some Groovy's syntactic sugar to make code as general as possible.
