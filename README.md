@@ -4,7 +4,7 @@ Projects holds design patterns samples described in [Hula Hoop Design Patterns](
 
 ## Requirements
 
-To install anr run project you should have to install:
+To install and run project you should have to install:
 
 1. [Groovy](http://groovy.codehaus.org/Installing+Groovy)
 2. [Gradle](http://www.gradle.org/installation)
