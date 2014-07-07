@@ -22,7 +22,7 @@ You can use project by clonning and compiling sources or download JAR archive.
 
 ### Using JAR
 
-1. Download [https://github.com/factorlabs/design-patterns/blob/master/build/libs/design-patterns-1.0.jar](https://github.com/factorlabs/design-patterns/blob/master/build/libs/design-patterns-1.0.jar)
+1. Download (Right clink -> Save link as...) [https://github.com/factorlabs/design-patterns/blob/master/build/libs/design-patterns-1.0.jar](https://github.com/factorlabs/design-patterns/blob/master/build/libs/design-patterns-1.0.jar)
 
 ## Running project
 
