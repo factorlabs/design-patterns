@@ -7,7 +7,7 @@ class Client {
     /**
      * Client
      */
-    def call(Serializer serializer) {
+    static call(Serializer serializer) {
         return serializer.serialize("Some data")
     }
 }

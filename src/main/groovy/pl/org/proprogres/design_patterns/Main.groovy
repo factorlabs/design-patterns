@@ -10,9 +10,8 @@ class Main {
     def static void main(String[] args) {
         def jsonSerializer = new JsonSerializer()
         def xmlSerializer = new XmlSerializer()
-        def client = new Client()
-        println client.call(jsonSerializer)
-        println client.call(xmlSerializer)
+        println Client.call(jsonSerializer)
+        println Client.call(xmlSerializer)
     
         def director = Director.getInstance()
         println director.makeDecision()
